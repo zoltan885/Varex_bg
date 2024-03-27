@@ -1,0 +1,8 @@
+2024-03-27 09:37:29
+Vsnap 1.0 ['--onlydark', '--av', '20', '--altdir', 'Varex_dark', '--det', '3']
+Energy: 68.500 keV
+Gain: 2
+Exposure time: 1.00
+Averages: 20
+Dark check avg=75.18
+Dark check std=10.88
